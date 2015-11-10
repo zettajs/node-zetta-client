@@ -1,0 +1,21 @@
+{
+  "name": "zetta-client",
+  "version": "0.1.0",
+  "description": "A Node.js client for Zetta (http://zettajs.org).",
+  "main": "client.js",
+  "dependencies": {
+    "rx": "^2.4.9",
+    "zrx": "^0.6.0",
+    "zetta-rels": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta",
+    "client"
+  ],
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT"
+}
